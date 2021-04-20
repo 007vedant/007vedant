@@ -3,7 +3,6 @@
 <!-- ## I'm a Husband, Father, Developer, and Teacher! -->
 
 - 🌱 I’m a pre-final year student pursuing Electrical Engineering from NIT Rourkela.
-- 🔭 I'll be interning as a software engineer at Samsung R&D, Bangalore in Summer'21.
 - 👯 I’m open to remote python developer roles and looking forward to contribute to more open-source projects.
 - ⚡ If not open-sourcing, you'll find me slogging away my brain cells on Codeforces/Codechef/Leetcode.
 
