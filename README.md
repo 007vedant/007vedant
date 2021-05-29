@@ -33,14 +33,6 @@
 <br />
 <br />
 
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Vedant's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=007vedant&show_icons=true&hide_border=true" />
-
-</details>
-
 [linkedin]: https://linkedin.com/in/vedantraghuwanshi
 [instagram]: https://instagram.com/vedant.o7
 [webdevplaylist]: https://www.python.org/doc
@@ -54,5 +46,10 @@
 [webdevplaylist]: https://www.mongodb.com/
 [webdevplaylist]: https://git-scm.com/doc
 [webdevplaylist]: https://docs.github.com/en
+
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=007vedant&show_icons=true&theme=radical&layout=compact">
+</p>
 
 
