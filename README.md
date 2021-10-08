@@ -1,23 +1,24 @@
+## Hey there, I'm Vedant 👋
+
 <p align="center">
   <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="animated" />
 </p
 
 
-### Hi there, I'm Vedant 👋
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher! -->
 
-- 🌱 I’m a pre-final year student pursuing Electrical Engineering from NIT Rourkela.
-- 👯 I’m open to remote python developer roles and looking forward to contribute to more open-source projects.
-- ⚡ If not open-sourcing, you'll find me slogging away my brain cells on Codeforces/Codechef/Leetcode.
+- 🌱 I’m a final year student pursuing Electrical & Electronics engineering from NIT Rourkela, India (Grad-2022).
+- 👦 I code, break & tinker with stuff and spend my time exploring tech, participating in hackathons and coding contests.
+- 🖥️ I have interned as a software engineer at **Samsung Research Bangalore** and worked on 4G LTE & 5G RAN software.
+- 🚀 If you wish to know more about my technical background and achievements, please find my resume [here](https://drive.google.com/file/d/1UEkoLh7VJ1qnrIyEIT0Msq77W9OfBIV6/view?usp=sharing).
 
 
 ### Connect with me:
 
 [<img align="left" alt="007vedant | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" />][linkedin]
-[<img align="left" alt="007vedant | LinkedIn" width="22px" src="https://img.icons8.com/fluency/96/000000/gmail-new.png" />][gmail]
+[<img align="left" alt="007vedant | Gmail" width="22px" src="https://img.icons8.com/fluency/96/000000/gmail-new.png" />][gmail]
 [<img align="left" alt="007vedant | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" />][instagram]
-[<img align="left" alt="007vedant | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />][twitter]
+[<img align="left" alt="007vedant | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" />][twitter]
 
 <br />
 
