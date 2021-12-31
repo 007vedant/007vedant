@@ -49,7 +49,7 @@
 
 [linkedin]: https://linkedin.com/in/vedantraghuwanshi
 [instagram]: https://instagram.com/vedant.o7
-[gmail]: raghuvedant00@gmail.com
+[gmail]: mailto:raghuvedant00@gmail.com
 [twitter]: https://twitter.com/__vedant1
 [python]: https://docs.python.org/3/
 [cpp]: http://www.cplusplus.com/doc/tutorial
