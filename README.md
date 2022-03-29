@@ -9,7 +9,7 @@
 
 - 🌱 I’m a senior undergrad pursuing Electrical & Electronics engineering from NIT Rourkela, India (Grad-2022).
 - 👦 I code, break & tinker with stuff and spend my time exploring tech, participating in hackathons and coding contests.
-- :atom: Currently, I am an open-source intern at [@CNCF](https://github.com/cncf), with the [@Kubernetes](https://github.com/kubernetes/kubernetes) org, working on the security enhancments of [@elekto](https://github.com/elekto-io).
+- :atom: Currently, I am an open-source intern at [@CNCF](https://github.com/cncf), with the [@Kubernetes](https://github.com/kubernetes/kubernetes) org, working on the security enhancements of [@elekto](https://github.com/elekto-io).
 - 🖥️ Previously, I have interned as a software engineer at **Samsung Research Bangalore** and worked on 4G LTE & 5G RAN software.
 - 🚀 If you wish to know more about my technical background and achievements, please find my resume [here](https://drive.google.com/file/d/1UEkoLh7VJ1qnrIyEIT0Msq77W9OfBIV6/view?usp=sharing).
 
