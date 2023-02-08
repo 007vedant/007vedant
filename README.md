@@ -7,10 +7,9 @@
 
 
 
-- 🌱 I’m a senior undergrad pursuing Electrical & Electronics engineering from NIT Rourkela, India (Grad-2022).
-- 👦 I code, break & tinker with stuff and spend my time exploring tech, participating in hackathons and coding contests.
-- :atom: Currently, I am an open-source intern at [**@CNCF**](https://github.com/cncf), with the [**@Kubernetes**](https://github.com/kubernetes/kubernetes) org, working on the security enhancements of [**@elekto**](https://github.com/elekto-io).
-- 🖥️ Previously, I have interned as a software engineer at **Samsung Research Bangalore** and worked on 4G LTE & 5G RAN software.
+- 🖥️  Presently, software engineer **@Amazon**, Ex-intern [**@CNCF**](https://github.com/cncf) with [**@Kubernetes**](https://github.com/kubernetes/kubernetes) org, **@SamsungResearch**
+- 👦 I code, break & tinker with stuff and spend my time exploring tech, reading blogs on software, participating in hackathons & coding contests and scratching my head over complex software engineering problems.
+- 🌱 Previously, `managed` to get a degree in electrical engineering from NIT Rourkela, India. (Class of '22).
 - 🚀 If you wish to know more about my technical background and achievements, please find my resume [here](https://drive.google.com/file/d/1mjtthg1IePAMTCrsPoRpOtN3C8gtPwdc/view?usp=sharing).
 
 
@@ -29,6 +28,8 @@
 [<img align="left" alt="Python" width="26px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" />][python]
 [<img align="left" alt="Cpp" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" />][cpp]
 [<img align="left" alt="Js" width="26px" src="https://pics.freeicons.io/uploads/icons/png/21088442871540553614-512.png" />][js]
+[<img align="left" alt="Java" width="26px" src="https://pics.freeicons.io/uploads/icons/png/378554371540553613-512.png" />][java]
+[<img align="left" alt="Scala" width="26px" src="https://pics.freeicons.io/uploads/icons/png/14439753821551942824-512.png" />][scala]
 [<img align="left" alt="Django" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9686895801536233213-512.png" />][django]
 [<img align="left" alt="Flask" width="26px" src="https://pics.freeicons.io/uploads/icons/png/608070591536298181-512.png" />][flask]
 [<img align="left" alt="HTML5" width="26px" src="https://pics.freeicons.io/uploads/icons/png/8804286661557996995-512.png" />][html5]
@@ -40,9 +41,7 @@
 [<img align="left" alt="Bash" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919837.png" />][bash]
 [<img align="left" alt="Git" width="26px" src="https://pics.freeicons.io/uploads/icons/png/9374299221540553610-512.png" />][git]
 [<img align="left" alt="Docker" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />][docker]
-[<img align="left" alt="Promethus" width="26px" src="https://pics.freeicons.io/uploads/icons/png/6813193821551942286-512.png" />][prometheus]
-[<img align="left" alt="Grafana" width="26px" src="https://pics.freeicons.io/uploads/icons/png/8135670941548141941-512.png" />][grafana]
-[<img align="left" alt="Google-Cloud" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />][googlecloud]
+[<img align="left" alt="AWS" width="26px" src="https://pics.freeicons.io/uploads/icons/png/18181230061536126577-512.png" />][aws]  
 
 
 <br />
@@ -55,6 +54,9 @@
 [python]: https://docs.python.org/3/
 [cpp]: http://www.cplusplus.com/doc/tutorial
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[java]: https://www.java.com/en/
+[scala]: https://www.scala-lang.org/
+[aws]: https://aws.amazon.com/
 [django]: https://www.djangoproject.com
 [flask]: https://flask.palletsprojects.com/en/1.1.x
 [html5]: https://html.spec.whatwg.org
