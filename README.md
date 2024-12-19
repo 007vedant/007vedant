@@ -10,7 +10,7 @@
 - 🖥️  Presently, software engineer **@Amazon**, Ex-intern [**@CNCF**](https://github.com/cncf) with [**@Kubernetes**](https://github.com/kubernetes/kubernetes) org, **@SamsungResearch**
 - 🌱 Previously, _`managed`_ to get a bachelor's degree in electrical engineering from NIT Rourkela, India (Class of '22)!
 - 👦 I code, break & tinker with stuff and spend my time exploring tech, reading blogs on software, participating in hackathons & coding contests and scratching my head over complex software engineering problems.
-- 🚀 If you wish to know more about my technical background and achievements, please find my resume [here](https://tinyurl.com/vedantsde2amazonresume).
+- 🚀 If you wish to know more about my technical background and achievements, please find my [resume](https://tinyurl.com/vedant-sde2-amazon).
 
 
 ### Connect with me:
